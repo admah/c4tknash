@@ -48,4 +48,4 @@ Drupal.behaviors.spamspan = {
     });
   }
 };
-}) (jQuery);;
+}) (jQuery);

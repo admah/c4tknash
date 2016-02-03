@@ -18,4 +18,3 @@ Drupal.behaviors.agencyTheme = {
   }
 };
 })(jQuery);
-;

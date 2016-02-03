@@ -749,4 +749,3 @@ Drupal.theme.prototype = {
 };
 
 })(jQuery);
-;

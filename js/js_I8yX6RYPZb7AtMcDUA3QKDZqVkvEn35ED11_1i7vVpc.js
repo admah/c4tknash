@@ -163,4 +163,3 @@ Drupal.googleanalytics.getDownloadExtension = function (url) {
 };
 
 })(jQuery);
-;
