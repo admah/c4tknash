@@ -26,4 +26,8 @@
   <loc>http://codeforthekingdomnashville.org/code-of-conduct.html</loc>
   <changefreq>monthly</changefreq>
 </url>
+<url>
+  <loc>http://codeforthekingdomnashville.org/api.html</loc>
+  <changefreq>monthly</changefreq>
+</url>
 </urlset>
