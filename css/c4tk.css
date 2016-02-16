@@ -11,3 +11,9 @@
 .about-header {
 	line-height: 1.4em;
 }
+.hidden-row {
+    padding: 0 !important;
+}
+.challenge-list li {
+	padding:5px 0;
+}
