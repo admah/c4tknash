@@ -3,7 +3,7 @@ Drupal.behaviors.agencyTheme = {
   attach: function (context) {
     // Replace cbpAnimatedHeader.js
     $(window).scroll(function(){
-        if ($(this).scrollTop() > 200 || location.pathname == '/code-of-conduct.html' || location.pathname == '/challenges.html' || location.pathname == '/awards.html' || location.pathname == '/api.html'){
+        if ($(this).scrollTop() > 200 || location.pathname == '/code-of-conduct.html' || location.pathname == '/challenges.html' || location.pathname == '/awards.html' || location.pathname == '/api.html' || location.pathname == '/menu.html'){
             $('.navbar-default').addClass('navbar-shrink');
         }
         else{
