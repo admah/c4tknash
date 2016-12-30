@@ -18,7 +18,7 @@ Drupal.behaviors.spamspan = {
       if ($('span.t', this).length) {
         $('span.t', this).replaceWith('.');
       }
-      
+
       // For each selected span, set mail to the relevant value, removing spaces
       var _mail = ($("span.u", this).text() +
         "@" +
@@ -48,4 +48,5 @@ Drupal.behaviors.spamspan = {
     });
   }
 };
+$('.home-cta').on('click', goog_report_conversion());
 }) (jQuery);
